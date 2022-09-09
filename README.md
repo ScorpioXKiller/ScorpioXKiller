@@ -62,5 +62,3 @@ I am passionate about programming and developing new things, and I am self-motiv
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ScorpioXKiller)](https://github.com/ScorpioXKiller)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpioXKiller&layout=compact)](https://github.com/ScorpioXKiller)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ScorpioXKiller.ScorpioXKiller)
