@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/65045809/189336109-9a3c3704-82bc-4d85-baa3-86c9aaf7390a.png" alt="my banner"/>
 
-<h3 align="center">
+<h3>
 Hi there, I'm Dima Gorodov.👋
 </h3>
 
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, Game Developer 🎮, and Software Engineer student 👨‍🎓!
-</h2> 
+<h4>
+Full-Stack Web Developer 💻, Game Developer 🎮, and Software Engineer student 👨‍🎓!
+</h4> 
 
 I am passionate about programming and developing new things, and I am self-motivated. I always take advantage of any opportunity to learn something new, and I aim to attain my goals at all times. My strengths are self-learning, the ability to work collaboratively and independently.
 
