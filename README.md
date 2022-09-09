@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/65045809/189336109-9a3c3704-82bc-4d85-baa3-86c9aaf7390a.png" alt="my banner"/>
+
 <h3 align="center">
 Hi there, I'm Dima Gorodov.👋
 </h3>
