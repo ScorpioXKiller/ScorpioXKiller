@@ -1,24 +1,26 @@
-<img src="https://user-images.githubusercontent.com/65045809/189336109-9a3c3704-82bc-4d85-baa3-86c9aaf7390a.png" alt="my banner"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/65045809/189336109-9a3c3704-82bc-4d85-baa3-86c9aaf7390a.png" alt="Dima Gorodov banner" />
 
-<h3>
-Hi there, I'm Dima Gorodov 👋
-</h3>
+  # Hi, I'm Dima Gorodov 👋
 
-<h4>
-System Software Engineer | C++17 / Qt | Python Automation | C# / WPF | HW/SW Integration
-</h4>
+  ### System Software Engineer · C++17 / Qt · Python Automation · C# / WPF · HW/SW Integration
 
-I am a System Software Engineer with hands-on experience developing software for RF signal generator platforms, engineering tools, calibration and validation workflows, automated test environments, and hardware-software integration.
-
-My work focuses on building maintainable software that interacts with real hardware across Windows, Linux, and Embedded Linux environments. I enjoy working close to the hardware layer, solving complex system-level problems, debugging cross-layer issues, and turning engineering prototypes into reliable tools used for testing, calibration, diagnostics, and device configuration.
-
-I have practical experience with C++17, Python, C#, Qt, WPF, Linux environments, RF measurement workflows, device communication protocols, and integration with embedded firmware, FPGA-controlled subsystems, and laboratory test equipment.
-
-#### Open to System Software / Embedded Software / HW-SW Integration / C++ / Python Automation roles.
+  **Open to System Software / Embedded Software / HW-SW Integration / C++ / Python Automation roles**
+</div>
 
 ---
 
-## 🤝 Connect with me
+## About Me
+
+I am a System Software Engineer with hands-on experience building software for RF signal generator platforms, engineering tools, calibration and validation workflows, automated test environments, and hardware-integrated desktop applications.
+
+My work focuses on maintainable software that interacts with real hardware across Windows, Linux, and Embedded Linux environments. I enjoy working close to the hardware layer, solving complex integration problems, and building tools that help engineers validate, debug, and operate sophisticated systems more effectively.
+
+I have practical experience with C++17, Python, C#, Qt, WPF, Linux environments, RF measurement workflows, device communication protocols, and integration with embedded firmware and FPGA-controlled subsystems.
+
+---
+
+## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/dmitriy-gorodov-b0770120b/">
   <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Dima Gorodov | LinkedIn" width="21px"/>
@@ -42,18 +44,18 @@ I have practical experience with C++17, Python, C#, Qt, WPF, Linux environments,
 
 ## 🛠️ Experience Highlights
 
-- Develop C++17/Qt, Python, and C#/.NET WPF software for RF signal generator platforms.
-- Build engineering applications across Windows, Linux, and Embedded Linux environments.
-- Design calibration, validation, diagnostics, and data-processing tools for RF measurement workflows.
-- Develop Python-based automated test environments for RF validation, instrument control, regression testing, log generation, plot/report creation, and failure analysis.
-- Implement reliable device communication and configuration flows using TCP/IP, UDP, SCPI, SSH/SFTP, SPI, USB/LAN workflows, and register-level hardware access.
-- Build modular desktop tools with OOP, MVVM-style design, worker-thread execution, responsive UI workflows, and separation between UI, backend logic, and device communication layers.
-- Develop C# / WPF applications for customer-specific RF device configuration, including parameter validation, setup workflows, error handling, and production-friendly operation.
-- Debug complex issues across application software, Linux services, embedded firmware, FPGA-controlled subsystems, operating systems, and hardware interfaces.
-- Work with lab equipment such as RF signal generators, power meters, spectrum analyzers, and counters.
-- Participate in integration, validation, qualification, release activities, code reviews, and Agile workflows.
-- Achieved absolute power accuracy of ±0.8 dB across 20–40 GHz from −40 dBm to +10 dBm through calibration analysis and validation.
-- Former Israeli Air Force Avionics Technician, experienced in troubleshooting communication and navigation systems, recognized with Honors for outstanding performance and attention to detail.
+- Develop C++17/Qt, Python, and C#/.NET WPF software for RF signal generator platforms
+- Build engineering applications across Windows, Linux, and Embedded Linux environments
+- Design calibration, validation, diagnostics, and data-processing tools for RF measurement workflows
+- Develop Python-based automated test environments for RF validation, instrument control, regression testing, log generation, plot/report creation, and failure analysis
+- Implement reliable device communication and configuration flows using TCP/IP, UDP, SCPI, SSH/SFTP, SPI, USB/LAN workflows, and register-level hardware access
+- Build modular desktop tools with OOP, MVVM-style design, worker-thread execution, responsive UI workflows, and separation between UI, backend logic, and device communication layers
+- Develop C# / WPF applications for customer-specific RF device configuration, including parameter validation, setup workflows, error handling, and production-friendly operation
+- Debug complex issues across application software, Linux services, embedded firmware, FPGA-controlled subsystems, operating systems, and hardware interfaces
+- Work with lab equipment such as RF signal generators, power meters, spectrum analyzers, and counters
+- Participate in integration, validation, qualification, release activities, code reviews, and Agile workflows
+- Achieved absolute power accuracy of ±0.8 dB across 20–40 GHz from −40 dBm to +10 dBm through calibration analysis and validation
+- Former Israeli Air Force Avionics Technician, experienced in troubleshooting communication and navigation systems, recognized with Honors for outstanding performance and attention to detail
 
 ---
 
@@ -68,8 +70,6 @@ I have practical experience with C++17, Python, C#, Qt, WPF, Linux environments,
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnubash&color=4EAA25)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=336791)
 
-<br/>
-
 ### Frameworks & Desktop Development
 
 ![](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&color=41CD52)
@@ -78,8 +78,6 @@ I have practical experience with C++17, Python, C#, Qt, WPF, Linux environments,
 ![](https://img.shields.io/badge/Architecture-MVVM-informational?style=flat&color=512BD4)
 ![](https://img.shields.io/badge/Architecture-OOP-informational?style=flat&color=00599C)
 ![](https://img.shields.io/badge/Concurrency-Multithreading-informational?style=flat&color=00599C)
-
-<br/>
 
 ### Systems & Hardware
 
@@ -92,8 +90,6 @@ I have practical experience with C++17, Python, C#, Qt, WPF, Linux environments,
 ![](https://img.shields.io/badge/Firmware%20Interaction-informational?style=flat&color=00599C)
 ![](https://img.shields.io/badge/RF%20Devices-informational?style=flat&color=00599C)
 
-<br/>
-
 ### Communication & Interfaces
 
 ![](https://img.shields.io/badge/Protocol-TCP%2FIP-informational?style=flat&color=00599C)
@@ -103,8 +99,6 @@ I have practical experience with C++17, Python, C#, Qt, WPF, Linux environments,
 ![](https://img.shields.io/badge/Interface-SPI-informational?style=flat&color=00599C)
 ![](https://img.shields.io/badge/Interface-USB%2FLAN-informational?style=flat&color=00599C)
 ![](https://img.shields.io/badge/Hardware-Register--Level%20Control-informational?style=flat&color=00599C)
-
-<br/>
 
 ### Tools
 
@@ -125,8 +119,7 @@ I have practical experience with C++17, Python, C#, Qt, WPF, Linux environments,
 
 Developed C++17/Qt and Python tools for calibration, diagnostics, automated testing, service workflows, and RF measurement analysis.
 
-Main areas:
-
+**Main areas:**
 - Calibration file processing
 - Measurement-data analysis
 - Frequency and power validation
@@ -136,14 +129,11 @@ Main areas:
 - Remote Linux interaction through SSH/SFTP
 - Debugging across software, firmware, FPGA, and hardware layers
 
----
-
 ### Python Automated Test & Measurement Environment
 
-Developed a Python-based automation environment for RF validation tests, device/instrument orchestration, repeatable regression workflows, and failure analysis.
+Developed a Python-based automation environment for RF validation tests, device and instrument orchestration, repeatable regression workflows, and failure analysis.
 
-Main areas:
-
+**Main areas:**
 - SCPI-controlled instrument communication
 - RF device control
 - Automated measurement flows
@@ -151,14 +141,11 @@ Main areas:
 - Regression checks
 - Faster debugging of measurement failures
 
----
-
 ### C# / WPF RF Device Configuration Application
 
 Developed a desktop application for configuring RF devices according to customer-specific requirements and required device behavior.
 
-Main areas:
-
+**Main areas:**
 - RF parameter configuration
 - Customer-specific setup workflows
 - Input validation
@@ -167,14 +154,11 @@ Main areas:
 - Separation between UI, business logic, and device communication
 - Responsive desktop operation
 
----
-
 ### Low-Level Device Communication & System Integration
 
 Developed utilities and software components for communication, diagnostics, and orchestration of embedded RF platforms.
 
-Main areas:
-
+**Main areas:**
 - SPI-based communication
 - Register-level configuration
 - Embedded Linux workflows
@@ -188,10 +172,9 @@ Main areas:
 ## 🎓 Education
 
 **B.Sc. Computer Science**  
-The Open University of Israel | 2023 – 2026
+The Open University of Israel | 2023–2026
 
-Relevant areas:
-
+**Relevant areas:**
 - Operating Systems
 - System Programming
 - Computer Architecture
