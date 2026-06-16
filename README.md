@@ -1,5 +1,6 @@
 <div align="center">
-  Hi, I'm Dmitriy Gorodov 👋
+  <img src="./profile-banner.png" alt="Dmitriy Gorodov banner" width="100%"/>
+  # Hi, I'm Dmitriy Gorodov 👋
 
   ### System Software Engineer · C++17 / Qt · Python Automation · C# / WPF · HW/SW Integration
 
