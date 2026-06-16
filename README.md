@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="./profile-banner.png" alt="Dmitriy Gorodov banner" width="100%"/>
-  # Hi, I'm Dmitriy Gorodov 👋
+  <img src="./banner_background.png" alt="Dmitriy Gorodov banner" width="100%"/>
+  
+  <h3>  
+    Hi there, I'm Dmitriy Gorodov 👋  
+  </h3>  
 
   ### System Software Engineer · C++17 / Qt · Python Automation · C# / WPF · HW/SW Integration
 
