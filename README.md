@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65045809/189336109-9a3c3704-82bc-4d85-baa3-86c9aaf7390a.png" alt="Dima Gorodov banner" />
-
-  # Hi, I'm Dima Gorodov 👋
+  Hi, I'm Dmitriy Gorodov 👋
 
   ### System Software Engineer · C++17 / Qt · Python Automation · C# / WPF · HW/SW Integration
 
