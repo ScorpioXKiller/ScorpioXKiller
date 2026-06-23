@@ -136,6 +136,6 @@ The Open University of Israel | 2023–2026
 
 ## 📈 GitHub Stats
 
-[![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScorpioXKiller)](https://github.com/ScorpioXKiller)
+[![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitriygorodov)](https://github.com/dmitriygorodov)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpioXKiller&layout=compact)](https://github.com/ScorpioXKiller)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriygorodov&layout=compact)](https://github.com/dmitriygorodov)
